@@ -9,7 +9,7 @@ load_dotenv()
 
 API_ID = os.getenv('API_ID')
 API_HASH = os.getenv('API_HASH')
-CONTACT_ID = 831000111
+CONTACT_ID = 795904350
 FIRST_DATE = dt.date(2021, 8, 10)
 
 
